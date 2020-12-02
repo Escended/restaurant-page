@@ -4,6 +4,9 @@
   font-weight: 500;
   font-style: normal;
 }
+html {
+  background-color: black;
+}
 
 body {
   /* background-image: url('/src/assets/images/Black-Background-Wood-01-1050x1680.jpg'); */
